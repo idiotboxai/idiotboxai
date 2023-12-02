@@ -1,4 +1,5 @@
-'''bash
+```bash
+
 $ echo "Hello, fellow developers! 👋 I'm idiotboxai"
 idiotboxai@debian:~$ whoami
 Coding Enthusiast | Bug Bounty Hunter | Student
