@@ -1,4 +1,4 @@
-
+```bash
 
 $ echo "Hello, fellow developers! 👋 I'm idiotboxai"
 idiotboxai@debian:~$ whoami
