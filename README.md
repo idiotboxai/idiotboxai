@@ -1,4 +1,4 @@
-```bash
+```
 
 $ echo "Hello, fellow developers! 👋 I'm idiotboxai"
 idiotboxai@debian:~$ whoami
@@ -29,10 +29,9 @@ idiotboxai@debian:~$ tail -n 5 what-im-up-to.md
 idiotboxai@debian:~$ ls -l repositories/
 🚀 My Repositories
 ---------------------
-- [My Recon project ](https://github.com/idiotboxai/vibe)
+- [My Recon project](https://github.com/idiotboxai/vibe)
 
-idiotboxai@debian:~$ curl https://github-readme-stats.vercel.app/api?username=idiotboxai&show_icons=true&theme=dark
-📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idiotboxai&show_icons=true&theme=dark)
 
 idiotboxai@debian:~$ cat acknowledgments.txt
 🎓 Acknowledgments
