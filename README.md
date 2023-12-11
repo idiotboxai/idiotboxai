@@ -1,4 +1,4 @@
-```bash
+<!--```bash
 
 $ echo "Hello, fellow developers! 👋 I'm idiotboxai"
 idiotboxai@debian:~$ whoami
@@ -36,6 +36,9 @@ idiotboxai@debian:~$ ls -l repositories/
 idiotboxai@debian:~$ cat acknowledgments.txt
 🎓 Acknowledgments
 ---------------------
-A big shoutout to the open-source community and coding buddies. Let's create awesome projects together! 🙌
+A big shoutout to the open-source community and coding buddies. Let's create awesome projects together! 🙌-->
+
+
+A noob
 
 Feel free to explore my repositories and drop a ⭐ if you find something interesting!
