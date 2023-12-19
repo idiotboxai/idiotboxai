@@ -41,7 +41,4 @@ A big shoutout to the open-source community and coding buddies. Let's create awe
 
 Feel free to explore my repositories and drop a ⭐ if you find something interesting!
 -->
-
-
-A noob
-
+Not a sheep
